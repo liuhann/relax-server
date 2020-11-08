@@ -1,0 +1,25 @@
+{
+  "name": "relax-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "dependencies": {
+    "electron": "^10.1.5",
+    "wind-boot": "^1.0.3",
+    "wind-core-http": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhann/relax-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhann/relax-server/issues"
+  },
+  "homepage": "https://github.com/liuhann/relax-server#readme"
+}
